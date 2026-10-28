@@ -1,0 +1,10 @@
+# Alt Wheel 3 for Windows
+pillow>=11.3        # 11.3 or newer: AVIF support is built in
+uiautomation        # finds the desktop file under the pointer
+pystray             # tray icon
+pymupdf             # opens PDFs
+python-docx         # writes DOCX
+pillow-heif         # reads and writes HEIC
+imageio-ffmpeg      # brings ffmpeg, for video to MP3
+openpyxl           # spreadsheets
+python-pptx       # presentations

@@ -1,0 +1,40 @@
+# Python and Windows runtime
+__pycache__/
+*.py[cod]
+*.pyd
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+# Tests and development
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+
+# Builds and local files
+build/
+dist/
+*.spec
+*.log
+*.tmp
+Thumbs.db
+.DS_Store
+.vscode/
+.idea/
+
+# No screenshots, photos or artwork committed
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.ico
+*.svg
+*.bmp
+*.avif
+*.heic
+*.tiff
